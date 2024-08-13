@@ -17,3 +17,4 @@ This project is a web application that predicts house prices based on input feat
 - Pandas
 - Scikit-learn
 - Pickle
+- save the index.HTML in a template folder and index.py in api.
